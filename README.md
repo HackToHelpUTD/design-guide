@@ -3,6 +3,8 @@
 * Primary - \#C51162
 * Light - \#FD558F
 * Dark - \#450623
+* White - \#FFFFFF
+* Black - \#000000
 ## Fonts
 * Headings - [Poppins](https://fonts.google.com/specimen/Poppins)
 * Body - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
