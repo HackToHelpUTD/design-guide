@@ -7,5 +7,5 @@
 * Black - \#000000
 ## Fonts
 * Headings - [Poppins](https://fonts.google.com/specimen/Poppins)
-* Body - [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+* Body - [Muli](https://fonts.google.com/specimen/Muli)
 * Cursive - [Cedarville Cursive](https://fonts.google.com/specimen/Cedarville+Cursive)
